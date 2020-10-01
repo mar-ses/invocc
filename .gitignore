@@ -1,0 +1,10 @@
+*.pyc
+*/__pycache__/
+*.swp
+*.debris
+
+archive/*
+.vscode/
+
+__pycache__
+.debris
